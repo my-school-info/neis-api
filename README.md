@@ -4,7 +4,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@my-school.info/neis-api.svg)](https://www.npmjs.com/package/@my-school.info/neis-api)
 [![downloads](https://img.shields.io/npm/dm/@my-school.info/neis-api.svg)](https://www.npmjs.com/package/@my-school.info/neis-api)
-[![license](https://img.shields.io/npm/l/@my-school.info/neis-api.svg)](https://www.npmjs.com/package/@my-school.info/neis-api)
+[![license](https://img.shields.io/npm/l/@my-school.info/neis-api.svg)](https://www.npmjs.com/package/@my-school.info/neis-api) 
 
 본 라이브러리는 `Node.js` 환경에서 이용할 수 있는 [나이스 오픈 API](https://open.neis.go.kr/) 라이브러리입니다.
 
