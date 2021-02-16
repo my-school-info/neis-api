@@ -15,7 +15,7 @@
 		"type": "git",
 		"url": "git+https://github.com/MY-SCHOOL-INFO/neis-api.git"
 	},
-	"author": "HanSeo <khan3618@naver.com>",
+	"author": "HanSeo0507 <khan3618@naver.com>",
 	"license": "MIT",
 	"scripts": {
 		"dev": "nodemon --exec \"ts-node --files src/example/index.ts\" --watch src -e ts",
