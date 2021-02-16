@@ -1,0 +1,36 @@
+{
+	"name": "@my-school.info/neis-api",
+	"version": "1.0.0",
+	"description": "나이스 학교 세부정보, 급식, 학사일정, 시간표 조회 API",
+	"keywords": [
+		"나이스",
+		"급식",
+		"학사일정",
+		"시간표",
+		"neis",
+		"neis-api"
+	],
+	"main": "dist/neis.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MY-SCHOOL-INFO/neis-api.git"
+	},
+	"author": "HanSeo <khan3618@naver.com>",
+	"license": "MIT",
+	"scripts": {
+		"dev": "nodemon --exec \"ts-node --files src/example/index.ts\" --watch src -e ts",
+		"start": "ts-node src/example/index.ts",
+		"build": "tsc"
+	},
+	"dependencies": {
+		"axios": "^0.21.1"
+	},
+	"devDependencies": {
+		"@types/axios": "^0.14.0",
+		"@types/node": "^14.14.25"
+	},
+	"bugs": {
+		"url": "https://github.com/MY-SCHOOL-INFO/neis-api/issues"
+	},
+	"homepage": "https://github.com/MY-SCHOOL-INFO/neis-api"
+}
